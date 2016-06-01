@@ -1,0 +1,10 @@
+flask
+flask-bootstrap
+flask-wtf
+requests
+bs4
+numpy
+pandas
+scikit-learn
+scipy
+gunicorn
